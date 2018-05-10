@@ -8,9 +8,9 @@ Fruit classification in the sense of non-person market.
 # Dataset
 There are totally have 26 classes. Every class have 81 to 148 samples. The resolution is 720 * 1280.
 # Main ideal
-1.Segment foreground from the image. We will use Matlab complete this task.
-2.Extract features from segmented iamges. The color features are more important. We will use python complete this task.
-3.Classification. We will use python complete this task.
+1.Segment foreground from the image. We will use Matlab complete this task.<br>
+2.Extract features from segmented iamges. The color features are more important. We will use python complete this task.<br>
+3.Classification. We will use python complete this task.<br>
 # The Result
 The accuracy of SVM:
 0.744196256117
